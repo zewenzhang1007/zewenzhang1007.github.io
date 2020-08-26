@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zewen Zhang</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Zewen Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2020 15:35:59 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to use Hugo to build my first blog</title>
+      <link>https://example.com/posts/my-first-post/</link>
+      <pubDate>Wed, 26 Aug 2020 15:35:59 +0800</pubDate>
+      
+      <guid>https://example.com/posts/my-first-post/</guid>
+      <description>Just some test words about my forst post.</description>
+    </item>
+    
+  </channel>
+</rss>
