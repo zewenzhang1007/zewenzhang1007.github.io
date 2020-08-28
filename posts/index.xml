@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zewen Zhang</title>
-    <link>https://example.com/posts/</link>
+    <link>https://zewenzhang1007.github.io/posts/</link>
     <description>Recent content in Posts on Zewen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Aug 2020 15:35:59 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zewenzhang1007.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to use Hugo to build my first blog</title>
-      <link>https://example.com/posts/my-first-post/</link>
+      <link>https://zewenzhang1007.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 26 Aug 2020 15:35:59 +0800</pubDate>
       
-      <guid>https://example.com/posts/my-first-post/</guid>
+      <guid>https://zewenzhang1007.github.io/posts/my-first-post/</guid>
       <description>The first moment that I saw the requirement of homework, which is designing my own website, I was really nervous: because I thought it would be extremely difficult for me to design a website within a week. But I realized it would be an interesting experience when I looked at the instruction of Hugo. I followed the steps, and I had fun playing with the theme &amp;mdash; Ananke. Ananke is one of the most widely used theme in Hugo, and it is also the theme used in the instruction.</description>
     </item>
     
