@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Zewen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2020 19:17:31 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 17:14:13 +0800</lastBuildDate>
     
 	<atom:link href="https://zewenzhang1007.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://zewenzhang1007.github.io/posts/my-third-post/</link>
+      <pubDate>Fri, 02 Oct 2020 17:14:13 +0800</pubDate>
+      
+      <guid>https://zewenzhang1007.github.io/posts/my-third-post/</guid>
+      <description>In this post, I will focus on how I visualized three datasets about Malaria Death.
+The first dataset is called malaria_deaths, it includes the data of Malaria deaths by country for all ages across the world and time. It has variables named as “Entity”, “Code”, “Year”, “Deaths - Malaria - Sex: Both - Age: Age-standardized (Rate) (per 100,000 people)”; “Code” refers to the country code, and I renamed the last one as “Death_Rate” for future convenience.</description>
+    </item>
     
     <item>
       <title>Euler Problems</title>
