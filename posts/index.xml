@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Zewen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2020 17:14:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2020 00:05:59 +0800</lastBuildDate>
     
 	<atom:link href="https://zewenzhang1007.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SQLite Schema</title>
+      <link>https://zewenzhang1007.github.io/posts/my-forth-post/</link>
+      <pubDate>Sat, 10 Oct 2020 00:05:59 +0800</pubDate>
+      
+      <guid>https://zewenzhang1007.github.io/posts/my-forth-post/</guid>
+      <description>In this post, i&amp;rsquo;d like to share how I created a SQLite3 schema to store this data in at least 3rd normal form (3NF), and then populated the tables. And I also use SQL query to find the names of all playlists that contain instrumentals.
+First I saved the csv file as a pandas dataframe in Python, then I created 6 seperated dataframes bansed on it: Track, Album, Playlist_namne, Playlist_genre, Playlist, and Other.</description>
+    </item>
     
     <item>
       <title>Visualization</title>
