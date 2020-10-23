@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Zewen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 00:05:59 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 17:11:30 +0800</lastBuildDate>
     
 	<atom:link href="https://zewenzhang1007.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Starwars</title>
+      <link>https://zewenzhang1007.github.io/posts/my-fifth-post/</link>
+      <pubDate>Fri, 23 Oct 2020 17:11:30 +0800</pubDate>
+      
+      <guid>https://zewenzhang1007.github.io/posts/my-fifth-post/</guid>
+      <description>In this post, I&amp;rsquo;d like to give a short description of how I scrapped star wars&amp;rsquo; api and find the oldest person (or robot or alien) and list the titles of all the films they appeared in by using Python.
+The first step is using function &amp;lsquo;requests&amp;rsquo; to scrub the data from the &amp;lsquo;people&amp;rsquo; section star wars&amp;rsquo; api since the information I want to know is about the people appeared in the movies.</description>
+    </item>
     
     <item>
       <title>SQLite Schema</title>
