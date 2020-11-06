@@ -6,10 +6,20 @@
     <description>Recent content on Zewen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2020 17:11:30 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2020 18:59:00 +0800</lastBuildDate>
     
 	<atom:link href="https://zewenzhang1007.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Streamlit app</title>
+      <link>https://zewenzhang1007.github.io/posts/first_app/</link>
+      <pubDate>Fri, 06 Nov 2020 18:59:00 +0800</pubDate>
+      
+      <guid>https://zewenzhang1007.github.io/posts/first_app/</guid>
+      <description>In this post I will describe how I used stramlit to generate an simple app for my visualization of data of PhDs awarded in the US from website(https://ncses.nsf.gov/pubs/nsf19301/data).
+Firstly, I used python to open the excel file I downloaded (Doctorate recipients from U.S. colleges and universities: 1958–2017). And I replaced the &amp;lsquo;-&amp;rsquo; into 0 for the first of the change rate column since the first year doesn&amp;rsquo;t has previous year. I display the table on the app and it looks likr this:</description>
+    </item>
     
     <item>
       <title> Starwars</title>
