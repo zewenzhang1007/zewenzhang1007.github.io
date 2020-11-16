@@ -35,7 +35,7 @@
 <meta property="og:description" content="Welcome to my personal website" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://zewenzhang1007.github.io/posts/" />
-<meta property="og:updated_time" content="2020-11-06T18:59:00+08:00" /><meta property="og:site_name" content="My site" />
+<meta property="og:updated_time" content="2020-11-16T20:57:36+08:00" /><meta property="og:site_name" content="My site" />
 <meta itemprop="name" content="Posts">
 <meta itemprop="description" content="Welcome to my personal website">
 <meta name="twitter:card" content="summary"/>
@@ -134,6 +134,22 @@
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
+      <a href="https://zewenzhang1007.github.io/posts/my-forth-post/" class="link black dim">
+        SQLite Schema
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      In this post, i&rsquo;d like to share how I created a SQLite3 schema to store this data in at least 3rd normal form (3NF), and then populated the tables. And I also use SQL query to find the names of all playlists that contain instrumentals.
+First I saved the csv file as a pandas dataframe in Python, then I created 6 seperated dataframes bansed on it: Track, Album, Playlist_namne, Playlist_genre, Playlist, and Other.
+    </div>
+  </div>
+</div>
+</div>
+      
+        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
       <a href="https://zewenzhang1007.github.io/posts/my-third-post/" class="link black dim">
         Visualization
       </a>
@@ -161,21 +177,6 @@ The first dataset is called malaria_deaths, it includes the data of Malaria deat
 </div>
 </div>
       
-        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
-      <a href="https://zewenzhang1007.github.io/posts/my-first-post/" class="link black dim">
-        How to use Hugo to build my first blog
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      The first moment that I saw the requirement of homework, which is designing my own website, I was really nervous: because I thought it would be extremely difficult for me to design a website within a week. But I realized it would be an interesting experience when I looked at the instruction of Hugo. I followed the steps, and I had fun playing with the theme &mdash; Ananke. Ananke is one of the most widely used theme in Hugo, and it is also the theme used in the instruction.
-    </div>
-  </div>
-</div>
-</div>
-      
     </section>
 <ul class="pagination">
   <li class="page-item">
@@ -190,11 +191,14 @@ The first dataset is called malaria_deaths, it includes the data of Malaria deat
   <li class="page-item active">
     <a class="page-link" href="/posts/page/2/">2</a>
   </li>
-  <li class="page-item disabled">
-    <a  class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+  <li class="page-item">
+    <a class="page-link" href="/posts/page/3/">3</a>
   </li>
   <li class="page-item">
-    <a href="/posts/page/2/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    <a href="/posts/page/3/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+  </li>
+  <li class="page-item">
+    <a href="/posts/page/3/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
   </li>
 </ul>
 
