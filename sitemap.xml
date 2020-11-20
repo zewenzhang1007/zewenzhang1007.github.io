@@ -3,21 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zewenzhang1007.github.io/posts/insects/</loc>
-    <lastmod>2020-11-16T20:57:36+08:00</lastmod>
+    <loc>https://zewenzhang1007.github.io/posts/last-post/</loc>
+    <lastmod>2020-11-20T18:48:26+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://zewenzhang1007.github.io/posts/</loc>
-    <lastmod>2020-11-16T20:57:36+08:00</lastmod>
+    <lastmod>2020-11-20T18:48:26+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://zewenzhang1007.github.io/</loc>
+    <lastmod>2020-11-20T18:48:26+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://zewenzhang1007.github.io/posts/insects/</loc>
     <lastmod>2020-11-16T20:57:36+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

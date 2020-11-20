@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Zewen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2020 20:57:36 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2020 18:48:26 +0800</lastBuildDate>
     
 	<atom:link href="https://zewenzhang1007.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Final Project</title>
+      <link>https://zewenzhang1007.github.io/posts/last-post/</link>
+      <pubDate>Fri, 20 Nov 2020 18:48:26 +0800</pubDate>
+      
+      <guid>https://zewenzhang1007.github.io/posts/last-post/</guid>
+      <description>In this post, I&amp;rsquo;d like to introduce my final project: Covid-19 in US-case and individual level analysis.
+At the beginning of the project, we start with preparing the data. There are four major part of the data our projects: policy data, hospital data, individual data as well as population data.
+The data I collected is population data from United States Census Bureau, American Community Survey 1-Year Data (2005-2019). This dataset includes state level population data, describing the number of cases of female/male under each group for each state.</description>
+    </item>
     
     <item>
       <title>Classfication of Insects Images by Deep Learning</title>
